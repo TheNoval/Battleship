@@ -1,0 +1,11 @@
+main()
+  menu::menu() // title block
+  menu::MenuPicker()
+  menu::StartGame()
+    game::game()
+    game::playGame()
+      game::initPlayers
+    game::playAgain()
+  menu::CloseProgram()
+    menu::endScreen()
+    menu::CloseProgram()
