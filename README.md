@@ -43,3 +43,9 @@ Clean out test build files.
 ```sh
 make DRIVER=src/test_driver.cpp clean
 ```
+
+## Collaborators
+- @TheNoval
+- @anna-st-40
+- @Wheylop
+- Jack
