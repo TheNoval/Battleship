@@ -45,7 +45,37 @@ make DRIVER=src/test_driver.cpp clean
 ```
 
 ## Collaborators
-- @TheNoval
-- @anna-st-40
-- @Wheylop
-- Jack
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="16.66%">
+        <a href="https://github.com/TheNoval">
+            <img src="https://avatars.githubusercontent.com/u/134335319?v=4" width="100px;" alt="TheNoval"/>
+            <br />
+            <sub><b>TheNoval</b></sub>
+        </a>
+      </td>
+      <td align="center" valign="top" width="16.66%">
+        <a href="https://github.com/anna-st-40">
+            <img src="https://avatars.githubusercontent.com/u/134335292?v=4" width="100px;" alt="anna-st-40"/>
+            <br />
+            <sub><b>anna-st-40</b></sub>
+        </a>
+      </td>
+      <td align="center" valign="top" width="16.66%">
+        <a href="https://github.com/Wheylop">
+            <img src="https://avatars.githubusercontent.com/u/160171684?v=4" width="100px;" alt="Wheylop"/>
+            <br />
+            <sub><b>Wheylop</b></sub>
+        </a>
+      </td>
+      <td align="center" valign="top" width="16.66%">
+        <!-- <a href=""> -->
+            <img src="https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png" width="100px;" alt="No Avatar"/>
+            <br />
+            <sub><b>Jack</b></sub>
+        <!-- </a> -->
+      </td>
+    </tr>    
+  </tbody>
+</table>
